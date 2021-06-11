@@ -1,1 +1,0 @@
-(self.webpackChunkdocs_arcasearch_com=self.webpackChunkdocs_arcasearch_com||[]).push([[466],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/blog/welcome"},{"title":"Hello","permalink":"/blog/hello-world"},{"title":"Hola","permalink":"/blog/hola"}]}')}}]);
